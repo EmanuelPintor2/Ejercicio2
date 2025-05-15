@@ -1,11 +1,24 @@
 @model List<PracticoMVC.Models.Producto>
-    
-<a href="@Url.Action("Crear", "Producto")">Agregar Nuevo Producto</a>
 
-<h2>Lista de Productos</h2>
-<ul>
-    @foreach (var p in Model)
-    {
-        <li>@p.Nombre - $@p.Precio</li>
-    }
-</ul>
+
+
+<h2 class="mb-4">Lista de Productos</h2>
+<table class="table table-bordered table-hover bg-white shadow-sm">
+    <thead class="table-dark">
+        <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Nombre</td>
+                <td>$@p.Precio</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" href="/Producto/Crear">Agregar Producto</a>

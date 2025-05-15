@@ -140,7 +140,6 @@ E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\scopedcss\bundle\PracticoMVC.styles.css
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\scopedcss\projectbundle\PracticoMVC.bundle.scp.css
-E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\compressed\7abea8pq6o-b9sayid5wm.gz
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\compressed\fdccijxl0d-61n19gt1b8.gz
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\compressed\wogophrjos-xtxxf3hu2r.gz
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\compressed\v539d18ca7-bqjiyaj88i.gz
@@ -220,3 +219,4 @@ E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\PracticoMVC.genruntimeconfig.cache
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\ref\PracticoMVC.dll
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\PracticoMVC.sourcelink.json
+E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\compressed\7abea8pq6o-k0xmrf2jzi.gz
