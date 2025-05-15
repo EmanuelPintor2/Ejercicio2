@@ -219,3 +219,4 @@ E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\PracticoMVC.pdb
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\PracticoMVC.genruntimeconfig.cache
 E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\ref\PracticoMVC.dll
+E:\YO\Facultad\3\BACK-END 2\2025\unidad 3\Ejercicio2\PracticoMVC\obj\Debug\net9.0\PracticoMVC.sourcelink.json

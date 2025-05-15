@@ -32,12 +32,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/YO/Facultad/3/BACK-END 2/2025/unidad 3/Ejercicio2/PracticoMVC/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[E:/YO/Facultad/3/BACK-END 2/2025/unidad 3/Ejercicio2/PracticoMVC/Views/Producto/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/YO/Facultad/3/BACK-END 2/2025/unidad 3/Ejercicio2/PracticoMVC/Views/Producto/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9caW5kZXguY3NodG1s
+[E:/YO/Facultad/3/BACK-END 2/2025/unidad 3/Ejercicio2/PracticoMVC/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/YO/Facultad/3/BACK-END 2/2025/unidad 3/Ejercicio2/PracticoMVC/Views/Shared/Error.cshtml]
