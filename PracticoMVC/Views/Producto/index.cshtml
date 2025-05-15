@@ -1,0 +1,9 @@
+@model List<PracticoMVC.Models.Producto>
+
+<h2>Lista de Productos</h2>
+<ul>
+    @foreach (var p in Model)
+    {
+        <li>@p.Nombre - $@p.Precio</li>
+    }
+</ul>
