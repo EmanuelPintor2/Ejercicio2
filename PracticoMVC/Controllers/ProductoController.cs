@@ -27,7 +27,7 @@ public class ProductoController : Controller
     [HttpPost]
     public IActionResult Crear(Producto producto)
     {
-        if (ModelState.IsValid)
+        if (ModelState.IsValid)//propiedad que marca si los campos pasaron las validaciones
         {
             _context.Productos.Add(producto);
             _context.SaveChanges();
